@@ -21,7 +21,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/goki/freetype/raster"
+	"github.com/zaklaus/freetype/raster"
 	"golang.org/x/image/math/fixed"
 )
 
